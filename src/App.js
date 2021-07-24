@@ -4,16 +4,6 @@ function App() {
   return (
     <>
       <TopBar />
-      <p>test</p>
-      <p>test</p>
-      <p>test</p>
-      <p>test</p>
-      <p>test</p>
-      <p>test</p>
-      <p>test</p>
-      <p>test</p>
-      <p>test</p>
-      <p>test</p>
     </>
   );
 }
