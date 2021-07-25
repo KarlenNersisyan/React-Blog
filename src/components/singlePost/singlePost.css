@@ -1,0 +1,23 @@
+.singlePost {
+  font: 9px;
+}
+
+.singlePostImg {
+  width: 100%;
+  height: 300px;
+  border-radius: 5px;
+  object-fit: cover;
+}
+
+.singlePostWrapper {
+  padding: 20px;
+  padding-right: 0;
+}
+
+.singlePostTitle {
+  text-align: center;
+  margin: 10px;
+  font-family: 'Lora', serif;
+  font-size: 30px;
+}
+
