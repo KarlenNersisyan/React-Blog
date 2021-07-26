@@ -10,7 +10,7 @@
 .settingsTitle {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
 }
 
 .settingsUpdateTitle {
@@ -52,7 +52,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-left: 10px;
+  margin-left: 30px;
   cursor: pointer;
 }
 
