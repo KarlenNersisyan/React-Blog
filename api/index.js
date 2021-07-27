@@ -18,7 +18,7 @@ mongoose
     useCreateIndex: true,
   })
   .then(console.log('Connected to MongoDB'))
-  .catch((err) => console.log(err));
+  .catch((error) => console.log(error));
 
 const storage = multer.diskStorage({
   destination: (req, file, cb) => {
@@ -40,5 +40,5 @@ app.use('/api/posts', postRoute);
 app.use('/api/categories', categoryRoute);
 
 app.listen('5000', () => {
-  console.log('Backend is running.');
+  console.log('Backend is running');
 });
