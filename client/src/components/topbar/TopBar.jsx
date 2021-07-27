@@ -44,7 +44,7 @@ export default function TopBar() {
         {user ? (
           <img
             className="topImg"
-            src="https://scontent.fevn6-2.fna.fbcdn.net/v/t1.6435-9/188335914_1234219070332519_9102793115898146773_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=oNvAiNxjREsAX-QHtfP&tn=aa_2j_U9cTaMr5sX&_nc_ht=scontent.fevn6-2.fna&oh=ad73b833b2ad1f7836f1ac5c2e4a15c9&oe=6123E7E2"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8AqDOJu_ZBvJS6_APqq78rptWFW7C20U42R4GN8BE88b8z_4gk7kvwYzDF_f8YzYOQ0rtGfp81fs&usqp=CAU"
             alt="Karlen Nersisyan"
           />
         ) : (
